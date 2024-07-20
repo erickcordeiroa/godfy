@@ -34,6 +34,8 @@ export default function Login() {
     //   password: data.password,
     // });
 
+    // console.log(response);
+
     route.push('/feed')
   };
 

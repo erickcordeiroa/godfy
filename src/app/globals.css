@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Para Firefox */
+section {
+  scrollbar-width: none; /* define a barra de rolagem como fina */
+  scrollbar-color: rgba(0, 0, 0, 0.2) transparent; /* cor e transparência do polegar e do trilho */
+}
